@@ -1,0 +1,4 @@
+node_modules/
+received_files/
+.DS_Store
+package-lock.json
