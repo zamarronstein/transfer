@@ -8,7 +8,7 @@ const program = new Command();
 const config = getConfig();
 
 program
-  .name('local-transfer')
+  .name('trf')
   .description('Herramienta CLI para transferir archivos y mensajes en red local')
   .version('1.0.0');
 

@@ -19,6 +19,6 @@
     "nodemon": "^3.1.14"
   },
   "bin": {
-    "local-transfer": "./transfer.js"
+    "trf": "./transfer.js"
   }
 }
